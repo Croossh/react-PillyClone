@@ -5,4 +5,4 @@ BrowserRouter 배포시 'basename={process.env.PUBLIC_URL}' 작성 필수<br>
 
 component 추가<br>
 <br>
-netlify 배포 성공 👉 https://graceful-madeleine-e36ad1.netlify.app
+netlify 배포 성공 👉 https://croossh-clone.netlify.app
